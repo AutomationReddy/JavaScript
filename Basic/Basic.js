@@ -134,7 +134,7 @@ for (var i = myDetails.length-1; i>=0; i--){
 
 //Excercise
 
-var billsArray = {
+/*var billsArray = {
 
     bill: [124, 48, 268, 180, 42],
     calcTip: function calcTip(){
@@ -162,6 +162,10 @@ var billsArray = {
 billsArray.calcTip();
 
 console.log(billsArray);
+*********************************************************/
+//Excercise-2
+
+console.log(this);
 
 
 
